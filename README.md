@@ -36,7 +36,7 @@ Built as my B.Tech capstone at Shoolini University.
 
 ## What I work with
 
-Node.js, Express, Cloud Run, Cloudflare, Firestore, AWS (CloudFormation, security), the Claude API and Claude Code, Gemini, Model Context Protocol, agentic tool use, Web Speech, ECDSA signing, conformal calibration, and the boring discipline of writing tests.
+Node.js, Python, Express, Cloud Run, Cloudflare, Firestore, AWS (CloudFormation, security), the Claude API and Claude Code, Gemini, Model Context Protocol, agentic tool use, Web Speech, ECDSA signing, conformal calibration, and the boring discipline of writing tests.
 
 ---
 
