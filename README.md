@@ -8,8 +8,6 @@ I am now open to work in cloud and AI engineering roles where the bar is shippin
 
 ---
 
-## Featured
-
 ### [LocalPulse](https://github.com/mohantyanshuman/localpulse) &middot; live at [localpulse.dmj.one](https://localpulse.dmj.one)
 
 An AI crisis helpline for small towns. Call it, talk like you would to a neighbor, in five languages, and it answers using live satellite and ground data.
